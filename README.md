@@ -1,2 +1,2 @@
 # basic-scripts
-Basic SHELL and Python scripts. Ones that I've written up for personal use. 
+Basic SHELL and Python scripts that I write up for personal use. 
